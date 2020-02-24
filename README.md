@@ -13,4 +13,4 @@ https://drive.google.com/file/d/1A-pnQUMkzk16d-pZzGN8r00qwhhunMja/view?usp=shari
 
 # Documentación
 
-https://docs.google.com/presentation/d/1cCKPiMZH6yTl24VO91Tj0yjORiZgAnbw6ZNjjV_NAyk/edit#slide=id.g6ec5cb9665_0_21
+https://docs.google.com/presentation/d/1cCKPiMZH6yTl24VO91Tj0yjORiZgAnbw6ZNjjV_NAyk/edit?usp=sharing
